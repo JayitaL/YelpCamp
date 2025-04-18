@@ -3,7 +3,7 @@
 YelpCamp is a full-stack campground review web application. It allows users to browse, create, and review campgrounds, with full authentication and interactive maps.
 
 
-**Live Demo:** [https://yelpcamp-9cid.onrender.com](https://yelpcamp-9cid.onrender.com)
+**Live Demo:** [https://yelpcamp-9cid.onrender.com](https://yelpcamp-9cid.onrender.com)   
 ⚠️ _Note: The app might take a few seconds to load as the server may spin up from sleep._
 
 
